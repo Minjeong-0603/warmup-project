@@ -1,0 +1,4 @@
+Welcome to Codeassay Warmup!
+This is your first file processing exercise.
+Learning programming step by step.
+

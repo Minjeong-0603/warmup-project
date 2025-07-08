@@ -1,0 +1,3 @@
+Processed: Welcome to Codeassay Warmup!
+Processed: This is your first file processing exercise.
+Processed: Learning programming step by step.
